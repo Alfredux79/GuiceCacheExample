@@ -11,7 +11,7 @@ This is a sample project to demonstrate how to use together:
 ```
 git clone https://github.com/Alfredux79/GuiceCacheExample.git
 cd GuiceCacheExample
-mvn tests
+mvn test
 ```
 
 enjoy!
